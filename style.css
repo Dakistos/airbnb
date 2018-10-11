@@ -1,0 +1,22 @@
+#navbarSupportedContent{
+  float: right;
+}
+
+.container-fluid, .card{
+  margin-top: 20px;
+}
+
+.col-6 h3{
+  margin-left: 12px;
+}
+
+.img-fluid{
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 1280px) {
+    #carte{
+      display: none;
+    }
+}
